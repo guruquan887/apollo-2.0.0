@@ -22,7 +22,7 @@ allowing for more refined control over the levels of logging.
 The "macro" build target defines a few commonly used class-specific macros.
 ```
 
-## adapters
+## adapters \\数据交互的抽象接口
 ```
 Adapters are used by the different modules to communicate with one another.
 The AdapterManager class hosts all the specific adapters and manages them.
@@ -32,17 +32,17 @@ Apollo modules and I/O mechanisms (e.g. ROS).
 ```
 
 
-## configs/data
+## configs/data  \\配置文件加载
 ```
 These specify the vehicle configuration.
 ```
 
-## math
+## math \\提供了数学几何api接口
 ```
 Implements a number of useful mathematical libraries.
 ```
 
-## monitor
+## monitor \\提供监控log信息
 ```
 Defines a logging system.
 ```
@@ -52,25 +52,25 @@ Defines a logging system.
 Defines a number of project-wide protocol buffers.
 ```
 
-## status
+## status \\提供各个模块工作状态
 ```
 Used for determining whether certain functions were performed successfully,
 providing helpful error messages otherwise.
 ```
 
-## time
+## time \\提供计时类
 ```
 Helper functions related to time.
 ```
 
-## util
+## util \\提供文件io管理功能
 ```
 Contains an implementation of a factory design pattern with registration,
 a few string parsing functions, and some utilities for parsing
 protocol buffers from files.
 ```
 
-## vehicle_state
+## vehicle_state \\提供车辆状态信息与预期状态估计
 ```
 This class specifies the current state of the vehicle (e.g. position, velocity,
 heading, etc.).
