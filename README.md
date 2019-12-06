@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Apollo Spring-git 20191206
 =======
 # Apollo master20191205
->>>>>>> 5e7a17e73b41363c43cabbab809935e4f0318638
+
 
 [![Build Status](https://travis-ci.org/ApolloAuto/apollo.svg?branch=master)](https://travis-ci.org/ApolloAuto/apollo)
 
