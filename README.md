@@ -1,4 +1,4 @@
-# Apollo Spring-git
+# Apollo Spring-git 20191206
 
 [![Build Status](https://travis-ci.org/ApolloAuto/apollo.svg?branch=master)](https://travis-ci.org/ApolloAuto/apollo)
 
