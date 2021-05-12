@@ -12,7 +12,7 @@
         "start_offline": "node_modules/.bin/webpack-dev-server --watch-poll --config webpack.offline.config.js"
     },
     "dependencies": {
-        "chart.js": "^2.7.0",
+        "chart.js": "^2.9.4",
         "chartjs-plugin-zoom": "^0.5.0",
         "classnames": "^2.2.5",
         "font-awesome": "^4.7.0",
