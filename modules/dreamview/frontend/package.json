@@ -25,7 +25,7 @@
         "react-rangeslider": "^2.2.0",
         "react-split-pane": "^0.1.66",
         "stats.js": "^0.17.0",
-        "three": "~0.84.0",
+        "three": "~0.137.0",
         "three-line-2d": "^1.1.6"
     },
     "devDependencies": {
